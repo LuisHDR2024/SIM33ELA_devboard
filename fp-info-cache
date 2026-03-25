@@ -1,4 +1,4 @@
-26515081094040404
+26557423690447759
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59906,6 +59906,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EasyEDA
+CAP-SMD_L3.5-W2.8-FD
+
+
+0
+2
+2
+EasyEDA
+CAP-TH_BD6.3-P2.50-D1.0-FD
+
+
+0
+2
+2
+EasyEDA
 CONN-TH_2P-P2.00_GP01-2001WR-2P
 
 
@@ -59934,6 +59948,13 @@ FILTER-SMD_4P-L2.0-W1.2-BL_DLW21H
 4
 4
 EasyEDA
+LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
+
+
+0
+48
+48
+EasyEDA
 PWRM-TH_LS03-13BXXR3
 
 
@@ -59954,6 +59975,13 @@ SIM33ELA_v2
 0
 18
 18
+EasyEDA
+SMD_RH-5015
+
+
+0
+1
+1
 EasyEDA
 SOD-523F_L1.2-W0.8-LS1.7-RD
 
@@ -59982,6 +60010,20 @@ SW-TH_KH-SS12F17-G5
 0
 3
 3
+EasyEDA
+TESTPOINT-SMD_L3.8-W2.0_RH-5019
+
+
+0
+1
+1
+EasyEDA
+UFQFPN-28_L4.0-W4.0-P0.50-BL
+
+
+0
+28
+28
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -61293,6 +61335,34 @@ LOGO_GPS
 0
 Images
 LOGO_GPSv2
+
+
+0
+0
+0
+Images
+LOGO_STM32
+
+
+0
+0
+0
+Images
+LOGO_STM32_5x5
+
+
+0
+0
+0
+Images
+LOGO_STM32_5x5_P
+
+
+0
+0
+0
+Images
+LOGO_STM32_7.5x7.5_P
 
 
 0
@@ -96649,6 +96719,20 @@ DIOC1608X36N
 2
 2
 Snapeda
+EG915QNALG-N03-SGNSA
+
+
+0
+126
+126
+Snapeda
+EG915_v2_noMCU
+
+
+0
+85
+85
+Snapeda
 ESP32-C3FH4_foot
 
 
@@ -96754,12 +96838,33 @@ GSM Module SIM800C
 84
 42
 Snapeda
+SIM868_foot
+
+
+0
+77
+77
+Snapeda
 SIM7080G-foot
 
 
 0
 77
 77
+Snapeda
+SR4G013_foot
+SR4G013-2
+Antenna
+0
+4
+4
+Snapeda
+STM32L431CBT6_foot
+ST LQFP48
+Integrated Circuit
+0
+48
+48
 Snapeda
 SW_TS-1088-AR02016
 
@@ -96802,6 +96907,27 @@ XR65P02D_foot
 0
 5
 5
+Snapeda
+antenova_SR4G008_foot
+SR4G008
+Antenna
+0
+6
+6
+Snapeda
+antenova_SR4G080_foot
+9x5.8x1.7mm
+Antenna
+0
+6
+6
+Snapeda
+battery_102050
+
+
+0
+0
+0
 Snapeda
 nano-sim-0501a-p_foot
 
@@ -105391,3 +105517,45 @@ Varistor VF
 0
 2
 2
+mouse-bite.pretty-main
+Mouse-bite-icon
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-1mm-3mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-2.54mm-4.66mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-2mm-4mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-3mm-6mm
+
+
+0
+0
+0
+mouse-bite.pretty-main
+mouse-bite-5mm-10mm
+
+
+0
+0
+0
