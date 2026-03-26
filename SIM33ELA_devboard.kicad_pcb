@@ -11870,6 +11870,15 @@
 		(uuid "e4f38f2a-a969-439c-a396-d0e0055d6fec")
 	)
 	(via
+		(at 137.99 85.11)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 18)
+		(uuid "e528436a-53f2-4362-a595-360bcb10e1ab")
+	)
+	(via
 		(at 126.115 82.2325)
 		(size 0.6)
 		(drill 0.3)
