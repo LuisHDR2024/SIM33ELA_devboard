@@ -62,18 +62,6 @@
         [
           "lib_footprint_mismatch|144770000|88097500|9274a083-556e-41f6-b7e6-c356767a5413|00000000-0000-0000-0000-000000000000",
           ""
-        ],
-        [
-          "silk_edge_clearance|139970000|80970000|196ee3d1-83d2-4f2e-b39a-c84cf04ea87e|1778eb77-ec50-4dec-bc3c-f5c056dcf349",
-          ""
-        ],
-        [
-          "silk_edge_clearance|139970000|80970000|196ee3d1-83d2-4f2e-b39a-c84cf04ea87e|f6f2b6d2-8999-4eab-a918-2bd691820359",
-          ""
-        ],
-        [
-          "silk_edge_clearance|149570000|80970000|196ee3d1-83d2-4f2e-b39a-c84cf04ea87e|0cbc1cf9-41fb-499c-a527-a5ac2f52ab1f",
-          ""
         ]
       ],
       "meta": {
@@ -206,7 +194,8 @@
       "track_widths": [
         0.0,
         0.15,
-        0.3
+        0.3,
+        0.3424
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
