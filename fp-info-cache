@@ -1,4 +1,4 @@
-26559198156438618
+26623494666346084
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59906,7 +59906,56 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 EasyEDA
+ANT-SMD_L10.0-W3.0
+
+
+0
+2
+2
+EasyEDA
+ANT-TH_BWGNSCNX8-8W4
+
+
+0
+1
+1
+EasyEDA
+ANT-TH_BWGNSCNX10
+
+
+0
+1
+1
+EasyEDA
+ANT-TH_L25.0-W25.0
+
+
+0
+1
+1
+EasyEDA
+CAP-SMD_BD8.0-L8.3-W8.3-FD
+
+
+0
+2
+2
+EasyEDA
 CAP-SMD_L3.5-W2.8-FD
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_L7.3-W4.3
+
+
+0
+2
+2
+EasyEDA
+CAP-SMD_L7.3-W4.3-R-RD
 
 
 0
@@ -59920,7 +59969,42 @@ CAP-TH_BD6.3-P2.50-D1.0-FD
 2
 2
 EasyEDA
+CASE-B_3528
+220uF (227) ±20% 6.3V
+
+0
+2
+2
+EasyEDA
+CASE-D_7343
+330uF (337) ±10% 10V
+
+0
+2
+2
+EasyEDA
+CONN-SMD_532610271
+
+
+0
+4
+4
+EasyEDA
 CONN-TH_2P-P2.00_GP01-2001WR-2P
+
+
+0
+2
+2
+EasyEDA
+CONN-TH_530480210
+
+
+0
+2
+2
+EasyEDA
+CRYSTAL-SMD_L3.2-W1.5
 
 
 0
@@ -59941,12 +60025,33 @@ DFN-8_L3.3-W3.3-P0.65-BL
 5
 5
 EasyEDA
+FCGQFN-24_L3.0-W2.2-P0.40-BL
+
+
+0
+24
+24
+EasyEDA
 FILTER-SMD_4P-L2.0-W1.2-BL_DLW21H
 
 
 0
 4
 4
+EasyEDA
+GPSM-SMD_18P-L10.0-W9.7-P1.10
+
+
+0
+18
+18
+EasyEDA
+LGA-53_L4.5-W4.5-R9-C9-P0.50-TL_MIA-M10Q
+
+
+0
+53
+53
 EasyEDA
 LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 
@@ -59955,12 +60060,40 @@ LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL
 48
 48
 EasyEDA
+OSC-TH_BD2.0-P0.70-D0.3
+
+
+0
+2
+2
+EasyEDA
 PWRM-TH_LS03-13BXXR3
 
 
 0
 6
 6
+EasyEDA
+QFN-16_L3.0-W3.0-P0.50-TL-EP1.7
+USB-Friendly Li-Ion Battery Charger and Power-Path Management IC, Vout 5.5 V, 4.3 V, -40 to 85 degC, 16-pin QFN (RGT), Green (RoHS  no SbBr)
+
+0
+17
+17
+EasyEDA
+QFN-48_L6.0-W6.0-P0.40-BL-EP3.8
+
+
+0
+53
+49
+EasyEDA
+SC-70-3_L2.1-W1.3-P1.30-LS2.1-TR
+
+
+0
+3
+3
 EasyEDA
 SIM33ELA
 
@@ -59976,6 +60109,20 @@ SIM33ELA_v2
 18
 18
 EasyEDA
+SMD-18_L10.1-W9.7-P1.10-TL_SKG09F
+
+
+0
+18
+18
+EasyEDA
+SMD_L2.0-W1.4_S2751-46R
+
+
+0
+1
+1
+EasyEDA
 SMD_RH-5015
 
 
@@ -59990,12 +60137,33 @@ SOD-523F_L1.2-W0.8-LS1.7-RD
 2
 2
 EasyEDA
+SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR
+
+
+0
+3
+3
+EasyEDA
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+EasyEDA
 SOT-223-3_L6.4-W3.5-P2.30-LS7.0-BR
 
 
 0
 4
 4
+EasyEDA
+SW-SMD_DSHP01TSGER
+
+
+0
+2
+2
 EasyEDA
 SW-SMD_L3.9-W3.0-P4.45
 
@@ -60004,6 +60172,27 @@ SW-SMD_L3.9-W3.0-P4.45
 2
 2
 EasyEDA
+SW-SMD_MSK12C01G15-W
+
+
+0
+9
+5
+EasyEDA
+SW-SMD_MSK12CO2
+
+
+0
+9
+5
+EasyEDA
+SW-SMD_SSSS811101
+
+
+0
+9
+7
+EasyEDA
 SW-TH_KH-SS12F17-G5
 
 
@@ -60011,12 +60200,26 @@ SW-TH_KH-SS12F17-G5
 3
 3
 EasyEDA
+TDFN-8_L2.0-W2.0-P0.50-BL-EP1.2
+
+
+0
+9
+9
+EasyEDA
 TESTPOINT-SMD_L3.8-W2.0_RH-5019
 
 
 0
 1
 1
+EasyEDA
+TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL
+
+
+0
+20
+20
 EasyEDA
 UFQFPN-28_L4.0-W4.0-P0.50-BL
 
@@ -60031,6 +60234,34 @@ UFQFPN-32_L5.0-W5.0-P0.50-BL-EP
 0
 33
 33
+EasyEDA
+VQFN-14_L3.5-W3.5-P0.50-BL-EP
+
+
+0
+15
+15
+EasyEDA
+VSON8_L2.0-W2.3-P0.50-LS3.1-BL
+
+
+0
+8
+8
+EasyEDA
+WIRELM-SMD_32P-L15.5-W15.0-P1.00
+
+
+0
+32
+32
+EasyEDA
+X2SON-8_L1.4-W1.0-P0.35-BL
+
+
+0
+8
+8
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -96719,6 +96950,20 @@ A7672-foot
 124
 124
 Snapeda
+AMA3B1KK-KQR-B0_foot
+QFN64
+Integrated Circuit
+0
+65
+65
+Snapeda
+CAP_6TPE330MAP
+
+
+0
+2
+2
+Snapeda
 DIOC1608X36N
 
 
@@ -96768,6 +97013,13 @@ M20047-1_foot
 7
 7
 Snapeda
+MIAM10Q00B
+MIA-M10Q-00B-1
+Integrated Circuit
+0
+53
+53
+Snapeda
 MICROQTJ-foot
 
 
@@ -96814,8 +97066,8 @@ Quectel_EG800K_foot_recorted
 
 
 0
-50
-50
+44
+44
 Snapeda
 SIM33ELA_foot
 
